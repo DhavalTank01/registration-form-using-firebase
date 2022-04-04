@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/registration-form-using-firebase/static/css/main.636deb00.css",
+    "main.js": "/registration-form-using-firebase/static/js/main.93a4413e.js",
+    "index.html": "/registration-form-using-firebase/index.html",
+    "main.636deb00.css.map": "/registration-form-using-firebase/static/css/main.636deb00.css.map",
+    "main.93a4413e.js.map": "/registration-form-using-firebase/static/js/main.93a4413e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.636deb00.css",
+    "static/js/main.93a4413e.js"
+  ]
+}
